@@ -201,3 +201,85 @@ font-weight: 700;
 line-height: normal;
 text-transform: uppercase;
 }
+/*                                                    working on sec5 */
+.sec5{
+    display: flex;
+    margin-top: 130px;
+    background-image: url("sec5/Group\ 44.png");
+    background-repeat: no-repeat;
+    background-size: 480px;
+    background-position: 425px -50px ;
+    padding-top: 40px;
+
+ 
+}
+.sec5-content1{
+    text-align: left;
+    margin-top: 0;
+    padding-left: 115px;
+}
+.grabber1-sec5{
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-top: 0;
+}
+.grabber2-sec5{
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+    margin-top: 0;
+}
+.topic-sec5{
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px; /* 160% */
+    margin: 0;
+    width: 320px;
+}
+.date-sec5{
+    color: #F00;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.sec5-content2{
+    margin: 0;
+    padding-left: 80px;
+}
+
+.img1-sec5{
+    height: 300px;
+    width: 300px;
+    margin: 0;
+    padding-right: 50px;
+    
+}
+.sec5-content3{
+    text-align: left;
+    padding-left: 50px;
+    margin: 0px;
+    padding-bottom: 20px;
+}
+.date-sec5{
+    padding-bottom: 10px;
+    margin: 0;
+}
+.img3-sec5{
+    margin: 0;
+    padding-top: 90px;
+    width: 100px;
+    height: 100px;
+}
