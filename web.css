@@ -22,9 +22,6 @@ body {
     background: linear-gradient(50deg, rgba(8, 8, 8, 0) 150%);
     backface-visibility: initial;
     margin-bottom: 0px;
-    
-
-
 }
 
 .sec1-title {
@@ -50,7 +47,7 @@ body {
     margin: 0;
 }
 
-/* Working on section 2 */
+/*                      Working on section 2 */
 main {
     margin-top: 0px;
 
@@ -93,4 +90,62 @@ margin: 0;
 }
 .sec2-img{
     padding-top: 50px;
+}
+ /*                       working on section 3 */
+.sec3{
+    display: flex;
+    background-image: url("sec3/Vectorrr.png");
+    background-size: 1110px ;
+    background-repeat: no-repeat;
+    background-position: 110px 80px;
+   
+}
+.sec3-title{
+    color: #FFF;
+font-family: Merriweather;
+font-size: 64px;
+font-style: normal;
+font-weight: 900;
+line-height: 88px; /* 137.5% */
+letter-spacing: 7.04px;
+margin-top: 0;
+margin-bottom: 0;
+margin-right: 150px;
+
+}
+.sec3-body{
+    color: rgba(255, 255, 255, 0.80);
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; /* 166.667% */
+text-align: left;
+margin-right: 150px;
+}
+.sec3-div{
+    padding-left: 150px;
+    padding-top: 150px;
+ 
+   
+}
+.sec3-img{
+    padding-right: 250px;
+    width: 300px;
+    height: 300px;
+    padding-top: 150px;
+    background-position: 0%;
+}
+.sec3-button{
+    color: #FFF;
+text-align: left;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-transform: uppercase;
+padding-left: 50px;
+padding-top: 30px;
+
 }
