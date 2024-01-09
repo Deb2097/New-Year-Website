@@ -479,22 +479,42 @@ margin-top: 10px;
 }
 .img1-cont1{
     width: 352px;
-    height: 400px;
+    height: 390px;
     margin: 12px;
+}
+.img1-cont1:hover{
+    background-color: rgb(252, 16, 16);
+    background-repeat: no-repeat;
+    background-position: 2000px 4000px;
+
 }
 .img1-cont2{
     width: 352px;
-    height: 400px;
+    height: 390px;
     margin: 12px;
+}
+.img1-cont2:hover{
+    background-color: rgb(252, 16, 16);
+    background-repeat: no-repeat;
+    background-position: 2000px 4000px;
 }
 /* -----------------------------working on section 10--------------------------------- */
 .sec10{
-    padding-top: 130px;
+    margin-top: 50px;
+    margin-left: 130px;
+    margin-right: 110px;
+    padding-top: 30px;
+    padding-bottom: 90px;
+    background-color: bisque;
+    background-repeat: no-repeat;
+    background-position: 30px;
  
     
 }
 .contents-sec10{
     text-align: center;
+    margin: 0;
+
 }
 .img1-sec10{
   
@@ -510,6 +530,7 @@ margin-top: 10px;
     text-transform: capitalize;
     margin: 0;
     padding-top: 30px;
+
 }
 .text2-sec10{
     color: rgba(7, 2, 17, 0.60);
@@ -520,42 +541,51 @@ margin-top: 10px;
     font-weight: 400;
     line-height: 32px; /* 160% */
     width: 750px;
-    padding-left: 300px;
+    padding-left: 190px;
 }
 .email-sec10{
   text-align: center;
   padding-top: 25px;
   display: flex;
   position: relative;
+  margin: 0;
     
 }
 .input-sec10{
-    position: absolute;
+    position: relative;
     width: 100px;
     height: 44px;
     bottom: -50px;
-    padding-left: 100px;
+    padding-left: 80px;
     padding-right: 100px;
-    margin-left: 500px;
+    margin-left: 400px;
+    margin-bottom: 120px;
     border-radius: 20px 0 0 20px;
+    margin-right: 0;
 
 
 }
 .button-sec10{
+    margin-left: 0;
+    margin-right: 300px;
     position: absolute;
+    padding-top: 50px;
+    padding-right: 200px;
     
 }
 .sec10-img1{
     width: 100px;
-    height: 50px;
-    padding-left: 750px;
+    height: 47px;
+    padding-left: 680px;
     position: absolute;
     border-radius: 0 20px 20px 0;
 }
 .text3-sec10{
     width: 100px;
-    height: 50px;
-    padding-left: 750px;
+    height: 49px;
+    font-weight: 800;
+    padding-left: 680px;
+    padding-top: 50px;
     position: absolute;
     color: #FFF;
     text-align: center;
