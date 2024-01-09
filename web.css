@@ -487,3 +487,75 @@ margin-top: 10px;
     height: 400px;
     margin: 12px;
 }
+/* -----------------------------working on section 10--------------------------------- */
+.sec10{
+    padding-top: 130px;
+}
+.contents-sec10{
+    text-align: center;
+}
+.img1-sec10{
+  
+}
+.text1-sec10{
+    color: #070211;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+    margin: 0;
+    padding-top: 30px;
+}
+.text2-sec10{
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px; /* 160% */
+    width: 750px;
+    padding-left: 300px;
+}
+.email-sec10{
+  text-align: center;
+  padding-top: 25px;
+  display: flex;
+  position: relative;
+    
+}
+.input-sec10{
+    position: absolute;
+    width: 100px;
+    height: 44px;
+    bottom: -50px;
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-left: 500px;
+    border-radius: 20px 0 0 20px;
+
+
+}
+.button-sec10{
+    position: absolute;
+    
+}
+.sec10-img1{
+    width: 100px;
+    height: 50px;
+    padding-left: 750px;
+    position: absolute;
+    border-radius: 0 20px 20px 0;
+}
+.text3-sec10{
+    width: 100px;
+    height: 50px;
+    padding-left: 750px;
+    position: absolute;
+    color: #FFF;
+    text-align: center;
+    font-family: Inter; 
+}
