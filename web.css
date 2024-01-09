@@ -59,17 +59,19 @@ main {
     padding-top: 5px;
 
 }
-.grabber{
+
+.grabber {
     color: #F00;
-text-align: center;
-font-family: Inter;
-font-size: 60px;
-font-style: normal;
-font-weight: 700;
-padding-top: 0;
-margin: 0;
+    text-align: center;
+    font-family: Inter;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 700;
+    padding-top: 0;
+    margin: 0;
 }
-.topic1{
+
+.topic1 {
     color: #F00;
     text-align: center;
     font-family: Inter;
@@ -79,78 +81,89 @@ margin: 0;
     line-height: normal;
     margin-bottom: 0;
 }
-.topic2{
+
+.topic2 {
     color: #070211;
-text-align: center;
-font-family: Inter;
-font-size: 48px;
-font-style: normal;
-padding-top: 0px;
-margin: 0;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    padding-top: 0px;
+    margin: 0;
 }
-.sec2-img{
+
+.sec2-img {
     padding-top: 50px;
 }
- /*                       working on section 3 */
-.sec3{
+
+/*                       working on section 3 */
+.sec3 {
     display: flex;
     background-image: url("sec3/Vectorrr.png");
-    background-size: 1110px ;
+    background-size: 1110px;
     background-repeat: no-repeat;
     background-position: 110px 80px;
-   
-}
-.sec3-title{
-    color: #FFF;
-font-family: Merriweather;
-font-size: 64px;
-font-style: normal;
-font-weight: 900;
-line-height: 88px; /* 137.5% */
-letter-spacing: 7.04px;
-margin-top: 0;
-margin-bottom: 0;
-margin-right: 150px;
 
 }
-.sec3-body{
-    color: rgba(255, 255, 255, 0.80);
-font-family: Inter;
-font-size: 18px;
-font-style: normal;
-font-weight: 400;
-line-height: 30px; /* 166.667% */
-text-align: left;
-margin-right: 150px;
+
+.sec3-title {
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 88px;
+    /* 137.5% */
+    letter-spacing: 7.04px;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-right: 150px;
+
 }
-.sec3-div{
+
+.sec3-body {
+    color: rgba(255, 255, 255, 0.80);
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    /* 166.667% */
+    text-align: left;
+    margin-right: 150px;
+}
+
+.sec3-div {
     padding-left: 150px;
     padding-top: 150px;
- 
-   
+
+
 }
-.sec3-img{
+
+.sec3-img {
     padding-right: 250px;
     width: 300px;
     height: 300px;
     padding-top: 150px;
     background-position: 0%;
 }
-.sec3-button{
+
+.sec3-button {
     color: #FFF;
-text-align: left;
-font-family: Inter;
-font-size: 20px;
-font-style: normal;
-font-weight: 700;
-line-height: normal;
-text-transform: uppercase;
-padding-left: 50px;
-padding-top: 30px;
+    text-align: left;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    padding-left: 50px;
+    padding-top: 30px;
 }
+
 /*                                                 working on sec4 */
-.sec4{
-    background-color: rgb(223, 229, 235) ;
+.sec4 {
+    background-color: rgb(223, 229, 235);
     background-repeat: no-repeat;
     text-align: center;
     margin-top: 120px;
@@ -159,23 +172,28 @@ padding-top: 30px;
     margin-bottom: 110px;
     flex-shrink: 0;
 }
-.sec4-content{
+
+.sec4-content {
     padding: 100px;
 }
-.topic-sec4{
+
+.topic-sec4 {
     margin: 0;
 }
-.title-sec4{
+
+.title-sec4 {
     color: #F00;
     text-align: center;
     font-family: Inter;
     font-size: 32px;
     font-style: normal;
     font-weight: 600;
-    line-height: 56px; /* 175% */
- 
+    line-height: 56px;
+    /* 175% */
+
 }
-.topic-sec4{
+
+.topic-sec4 {
     color: #070211;
     font-family: Inter;
     font-size: 32px;
@@ -184,41 +202,46 @@ padding-top: 30px;
     line-height: 56px;
 
 }
-.button-sec4{
+
+.button-sec4 {
     margin-top: 40px;
     height: 60px;
     width: 160px;
     border-radius: 8px;
-background: #F00; 
+    background: #F00;
 }
-.bt-text-sec4{
+
+.bt-text-sec4 {
     color: #FFF;
-text-align: center;
-font-family: Inter;
-font-size: 20px;
-font-style: normal;
-font-weight: 700;
-line-height: normal;
-text-transform: uppercase;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
 }
+
 /*                                                    working on sec5 */
-.sec5{
+.sec5 {
     display: flex;
     margin-top: 130px;
     background-image: url("sec5/Group\ 44.png");
     background-repeat: no-repeat;
     background-size: 480px;
-    background-position: 425px -50px ;
+    background-position: 425px -50px;
     padding-top: 40px;
 
- 
+
 }
-.sec5-content1{
+
+.sec5-content1 {
     text-align: left;
     margin-top: 0;
     padding-left: 115px;
 }
-.grabber1-sec5{
+
+.grabber1-sec5 {
     color: #F00;
     font-family: Inter;
     font-size: 24px;
@@ -227,7 +250,8 @@ text-transform: uppercase;
     line-height: normal;
     margin-top: 0;
 }
-.grabber2-sec5{
+
+.grabber2-sec5 {
     color: #070211;
     font-family: Merriweather;
     font-size: 48px;
@@ -237,79 +261,89 @@ text-transform: uppercase;
     text-transform: capitalize;
     margin-top: 0;
 }
-.topic-sec5{
+
+.topic-sec5 {
     color: rgba(7, 2, 17, 0.60);
     font-family: Inter;
     font-size: 20px;
     font-style: normal;
     font-weight: 400;
-    line-height: 32px; /* 160% */
+    line-height: 32px;
+    /* 160% */
     margin: 0;
     width: 320px;
 }
-.date-sec5{
+
+.date-sec5 {
     color: #F00;
-font-family: Inter;
-font-size: 48px;
-font-style: normal;
-font-weight: 700;
-line-height: normal;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
 }
-.sec5-content2{
+
+.sec5-content2 {
     margin: 0;
     padding-left: 80px;
 }
 
-.img1-sec5{
+.img1-sec5 {
     height: 300px;
     width: 300px;
     margin: 0;
     padding-right: 50px;
-    
+
 }
-.sec5-content3{
+
+.sec5-content3 {
     text-align: left;
     padding-left: 50px;
     margin: 0px;
     padding-bottom: 20px;
 }
-.date-sec5{
+
+.date-sec5 {
     padding-bottom: 10px;
     margin: 0;
 }
-.img3-sec5{
+
+.img3-sec5 {
     margin: 0;
     padding-top: 90px;
     width: 100px;
     height: 100px;
 }
+
 /*                                                   working on sec6 */
-.sec6{
+.sec6 {
     text-align: center;
     padding-top: 120px;
 
 }
 
-.title-sec6{
+.title-sec6 {
     color: #070211;
-font-family: Inter;
-font-size: 24px;
-font-style: normal;
-font-weight: 500;
-line-height: normal;
-margin-bottom: 0;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-bottom: 0;
 }
-.post-title-sec6{
+
+.post-title-sec6 {
     color: #F00;
-text-align: center;
-font-family: Merriweather;
-font-size: 72px;
-font-style: normal;
-font-weight: 900;
-line-height: normal;
-margin: 0;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    margin: 0;
 }
-.grabber-sec6{
+
+.grabber-sec6 {
     color: #070211;
     font-family: Merriweather;
     font-size: 72px;
@@ -319,18 +353,74 @@ margin: 0;
     margin: 0;
     padding-top: 20px;
 }
-.content-sec6{
+
+.content-sec6 {
     margin-top: 10px;
     padding: 15px
 }
-.content1-sec6{
+
+.content1-sec6 {
     color: rgba(7, 2, 17, 0.60);
     text-align: center;
     font-family: Inter;
     font-size: 20px;
     font-style: normal;
     font-weight: 500;
-    line-height: 32px; /* 160% */
-    margin:0 ;
+    line-height: 32px;
+    /* 160% */
+    margin: 0;
 
+}
+
+/*                                             working on sec7 */
+.sec7 {
+    padding-top: 100px;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    position: relative;
+
+}
+
+.content1-sec7 {
+    margin: 0;
+    display: flex;
+    position: relative;
+}
+
+.img1-sec7 {
+    margin: 0;
+    height: 550px;
+    width: 640px;
+    position: absolute;
+    left: 50px;
+    top: 80px;
+    z-index: 5;
+
+}
+
+.img2-sec7 {
+    height: 300px;
+    width: 300px;
+    position: absolute;
+    left: 600px;
+    top: 100px;
+    z-index: 5;
+}
+
+.img3-sec7 {
+    width: 429px;
+    height: 433px;
+    position: absolute;
+    right: 120px;
+}
+
+.img4-sec7 {
+    position: absolute;
+    width: 1100px;
+    height: 180px;
+    left: 130px;
+    top: 532px;
+    z-index: 0;
 }
